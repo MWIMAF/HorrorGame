@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/Agate/Maps/C1M1.umap"
+				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/Agate/Maps/C1M1.umap",
+				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/Agate/Maps/_GENERATED/wima2/Box_448E737D.uasset",
+				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/Agate/Maps/_GENERATED/wima2/Box_9597A18B.uasset",
+				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/Agate/Maps/_GENERATED/wima2/CubeGridToolOutput_BA3FDD09.uasset",
+				"D:/AGATE/Unreal Course/HorrorGame/HorrorGame/Content/Agate/Maps/_GENERATED/wima2/Student_Hall_3138660F.uasset"
 			]
 		}
 	]
